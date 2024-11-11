@@ -13,7 +13,7 @@
 Faça o clone do repositório:
    ```bash
    git clone https://github.com/paulo-moretti/gerenciador-de-notas.git
-
+````
 Compile o código:
 
 ````bash
