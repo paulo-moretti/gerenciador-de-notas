@@ -10,7 +10,7 @@
 - **Linguagem:** C++
 
 ## Como Rodar o Projeto
-1. Faça o clone do repositório:
+Faça o clone do repositório:
    ```bash
    git clone https://github.com/paulo-moretti/gerenciador-de-notas.git
 
