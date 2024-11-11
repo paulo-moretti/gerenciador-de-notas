@@ -40,3 +40,5 @@ git push origin minha-nova-funcionalidade
 Abra um pull request no repositório original.
 
 ---
+
+© 2024 Paulo Eduardo Moretti. Todos os direitos reservados.
